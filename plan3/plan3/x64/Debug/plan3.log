@@ -1,0 +1,4 @@
+﻿  plan3.cpp
+D:\cpp\les planches d'exercices\plan3\plan3\plan3.cpp(25,1): warning C4715: 'mini_maxi' : les chemins de contrôle ne retournent pas tous une valeur
+D:\cpp\les planches d'exercices\plan3\plan3\plan3.cpp(40,1): warning C4715: 'minii_maxi' : les chemins de contrôle ne retournent pas tous une valeur
+  plan3.vcxproj -> D:\cpp\les planches d'exercices\plan3\x64\Debug\plan3.exe
